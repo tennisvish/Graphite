@@ -1,7 +1,7 @@
 Here is an easy to run python tool for visualizing experiments simply by uploading excels with their data!
 # Graphite: Experimental Data Visualization Dashboard
 
-An interactive web application for visualizing radiation, hypergravity, and spaceflight experimental data with Apple-inspired design aesthetics.
+An interactive web application for visualizing radiation, hypergravity, and spaceflight experimental data
 
 ## Features
 
