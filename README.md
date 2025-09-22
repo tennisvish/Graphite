@@ -52,7 +52,8 @@ pandas>=1.3.0
 dash-bootstrap-components>=1.0.0
 openpyxl>=3.0.0
 
-# Manual - you can also just download the python file from github and run.
+# Manual
+you can also just download the python file from github and run.
 
 
 # In browser (http://localhost:8050 )
